@@ -1,0 +1,14 @@
+Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+Bronx,University Heights,4c2f8b1b7cc0c9b6a1eaeb9a,Accra Resturant,9,7.3,3
+Bronx,University Heights,4cb2beaadedbef3bca7c9d40,Papaye Restaurant,11,7.5,3
+Bronx,Fordham,4cb2beaadedbef3bca7c9d40,Papaye Restaurant,11,7.5,3
+Bronx,Belmont,4cb2beaadedbef3bca7c9d40,Papaye Restaurant,11,7.5,3
+Brooklyn,Crown Heights,51d4d2cc454a777ed5a76c57,Cafe Rue Dix,201,8.4,59
+Manhattan,Hamilton Heights,53e01975498e78c0915599bf,Ponty Bistro Harlem,105,8.6,30
+Manhattan,Central Harlem,53e01975498e78c0915599bf,Ponty Bistro Harlem,105,8.6,30
+Manhattan,Central Harlem,4c2fdced452620a120551e0f,Keur Sokhna,12,7.8,8
+Manhattan,Central Harlem,4a9ea132f964a520ad3a20e3,Africa Kine Restaurant,35,7.0,33
+Manhattan,Central Harlem,5004a9e5e4b034c2950659fd,Les Ambassades Senegalais Bistro,26,7.6,11
+Manhattan,East Harlem,5b855d2da0215b002c09d9fa,Teranga,14,8.6,6
+Bronx,Mount Hope,4c2f8b1b7cc0c9b6a1eaeb9a,Accra Resturant,9,7.3,3
+Brooklyn,Highland Park,4b1eefb3f964a520c72124e3,Festac Grill,9,6.0,11
